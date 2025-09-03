@@ -30,11 +30,6 @@ A **multimodal proof-of-concept app** that lets you ask questions about images u
 ---
 
 
-## 📸 Screenshot  
-
-<p align="center">
-  <img src="./images/finetuning-vlm.jpg" alt="Ask the Image App" width="600" />
-</p>
 
 
 
